@@ -15,7 +15,9 @@ public class CollectAmount {
 			 Integer amount= mySon.collectAmountAndGiveItTome();
 			 System.out.println("Got the amount son"+ amount);
 			 
-			 hi june
+			 hi june 
+			 
+			 For new update add video and audio...
 	  
 		}
 
