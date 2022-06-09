@@ -1,0 +1,20 @@
+package com.lao.javaLearning;
+
+public class CollectAmount {
+		
+		public Integer collectedAmount=1000;
+		
+		public Integer collectAmountAndGiveItTome() {
+			System.out.println("Daddy have Collected Rupees" + collectedAmount+ "and send it to you");
+			return collectedAmount;
+		}
+
+		public static void main(String[] args) {
+			
+			CollectAmount mySon= new CollectAmount();
+			 Integer amount= mySon.collectAmountAndGiveItTome();
+			 System.out.println("Got the amount son"+ amount);
+	  
+		}
+
+	}
