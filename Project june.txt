@@ -17,7 +17,7 @@ public class CollectAmount {
 			 
 			 hi june 
 			 
-			 For new update add video and audio...
+			 For new update add video and audio......
 	  
 		}
 
